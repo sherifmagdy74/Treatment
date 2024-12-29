@@ -1,6 +1,6 @@
 # treatment
 
-A new Flutter project.
+A medical application that gives medical advice for specialties (dental, surgery, emergency center, nursing, physical therapy, and pharmacy) through each section that presents common problems through explanation, and how to overcome them through correct postures to solve the medical problem through explanation or either explanatory videos to help the patient through Application
 
 ## Getting Started
 
